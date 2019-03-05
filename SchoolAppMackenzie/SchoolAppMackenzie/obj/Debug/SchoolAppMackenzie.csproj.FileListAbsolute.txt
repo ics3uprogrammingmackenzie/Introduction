@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Introduction\SchoolAppMackenzie\SchoolAppMackenzie\obj\Debug\SchoolAppMackenzie.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Introduction\SchoolAppMackenzie\SchoolAppMackenzie\obj\Debug\SchoolAppMackenzie.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Introduction\SchoolAppMackenzie\SchoolAppMackenzie\obj\Debug\SchoolAppMackenzie.frmSchoolApp.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Introduction\SchoolAppMackenzie\SchoolAppMackenzie\obj\Debug\SchoolAppMackenzie.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Introduction\SchoolAppMackenzie\SchoolAppMackenzie\bin\Debug\SchoolAppMackenzie.exe.config
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Introduction\SchoolAppMackenzie\SchoolAppMackenzie\bin\Debug\SchoolAppMackenzie.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Introduction\SchoolAppMackenzie\SchoolAppMackenzie\bin\Debug\SchoolAppMackenzie.pdb
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Introduction\SchoolAppMackenzie\SchoolAppMackenzie\obj\Debug\SchoolAppMackenzie.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Introduction\SchoolAppMackenzie\SchoolAppMackenzie\obj\Debug\SchoolAppMackenzie.pdb

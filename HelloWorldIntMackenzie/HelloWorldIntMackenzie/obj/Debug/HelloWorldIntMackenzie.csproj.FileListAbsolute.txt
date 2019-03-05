@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Introduction\HelloWorldIntMackenzie\HelloWorldIntMackenzie\bin\Debug\HelloWorldIntMackenzie.exe.config
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Introduction\HelloWorldIntMackenzie\HelloWorldIntMackenzie\bin\Debug\HelloWorldIntMackenzie.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Introduction\HelloWorldIntMackenzie\HelloWorldIntMackenzie\bin\Debug\HelloWorldIntMackenzie.pdb
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Introduction\HelloWorldIntMackenzie\HelloWorldIntMackenzie\obj\Debug\HelloWorldIntMackenzie.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Introduction\HelloWorldIntMackenzie\HelloWorldIntMackenzie\obj\Debug\HelloWorldIntMackenzie.frmHelloWorldInt.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Introduction\HelloWorldIntMackenzie\HelloWorldIntMackenzie\obj\Debug\HelloWorldIntMackenzie.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Introduction\HelloWorldIntMackenzie\HelloWorldIntMackenzie\obj\Debug\HelloWorldIntMackenzie.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Introduction\HelloWorldIntMackenzie\HelloWorldIntMackenzie\obj\Debug\HelloWorldIntMackenzie.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Introduction\HelloWorldIntMackenzie\HelloWorldIntMackenzie\obj\Debug\HelloWorldIntMackenzie.pdb
